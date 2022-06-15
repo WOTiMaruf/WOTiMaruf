@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @WOTiMaruf
 - 👀 I’m interested in Web
-- 🌱 I’m currently learning PHP
+- 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
